@@ -252,9 +252,9 @@ THE SOFTWARE.
             this.inserted = false;
             this.closed = false;
 
-            var default_text = 'We use cookies to enhance your experience. ' +
-                'By continuing to visit this site you agree to our use of cookies.';
-            var default_link = 'Learn more';
+            var default_text = 'Usamos cookies para melhorar sua experiência. ' +
+                'Ao continuar a visitar este site concorda com a nossa utilização de cookies.';
+            var default_link = 'Saber mais';
 
             this.default_options = {
                 // autorun: true,
@@ -271,7 +271,7 @@ THE SOFTWARE.
                 mask: false,
                 maskOpacity: 0.5,
                 maskBackground: '#000',
-                height: 'auto',
+                height: '6%',
                 minHeight: '21px',
                 bg: '#000',
                 fg: '#ddd',
@@ -280,7 +280,7 @@ THE SOFTWARE.
                 padding: '5px 16px',
                 message: default_text,
                 linkmsg: default_link,
-                moreinfo: 'http://aboutcookies.org',
+                moreinfo: 'https://redek-dp.github.io/cookie-banner/tests/',
                 moreinfoTarget: '_blank',
                 moreinfoRel: 'noopener noreferrer',
                 moreinfoDecoration: 'none',
