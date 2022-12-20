@@ -271,7 +271,7 @@ THE SOFTWARE.
                 mask: false,
                 maskOpacity: 0.5,
                 maskBackground: '#000',
-                height: '45px',
+                height: '6%',
                 minHeight: '21px',
                 bg: '#000',
                 fg: '#ddd',
