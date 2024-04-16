@@ -1,3 +1,5 @@
+[![Visits](https://badges.pufler.dev/visits/redek-dp/cookie-banner)](https://github.com/redek-dp/)
+
 # Cookie Banner [![Build Status](https://img.shields.io/travis/dobarkod/cookie-banner.svg?style=flat-square)](https://travis-ci.org/dobarkod/cookie-banner)
 
 Cookie Banner is a super-easy way to ensure you're complying with the EU
